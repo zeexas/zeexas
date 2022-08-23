@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeexas
+- 👋 Hi, I’m Valery
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, React, Vue
 - 📫 You can reach me here www.linkedin.com/in/zeexas
